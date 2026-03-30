@@ -12,7 +12,7 @@ The project loads a **CodeLlama 13B model in GGUF format** and allows users to i
 * GPU acceleration using Apple **Metal**
 * Interactive prompt for asking questions or generating code
 * Configurable inference parameters (temperature, top_p, repeat penalty, etc.)
-* Lightweight setup using `llama-cpp-python`
+* Lightweight setup using `llama-cpp-python.`
 
 ---
 
@@ -141,4 +141,4 @@ These parameters help produce stable responses for coding tasks.
 
 ## License
 
-This project is for educational and experimentation purposes.
+MIT License
