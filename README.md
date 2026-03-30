@@ -22,7 +22,8 @@ The project loads a **CodeLlama 13B model in GGUF format** and allows users to i
 ```
 local-codellama-project
 │
-├── script.py              # Main script to run the model
+├── scripts
+ └── run_llama.py          # Main script to run the model
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
 ├── .gitignore             # Ignored files
